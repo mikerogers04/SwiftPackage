@@ -19,3 +19,9 @@ public func subtract() {
     let num4: Int = 3
     print(num3 - num4)
 }
+
+public func multiply() {
+    let num5: Int = 5
+    let num6: Int = 5
+    print(num5 * num6)
+}
