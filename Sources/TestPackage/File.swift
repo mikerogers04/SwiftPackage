@@ -13,3 +13,9 @@ public func add() {
     let num2: Int = 2
     print(num1 + num2)
 }
+
+public func subtract() {
+    let num3: Int = 4
+    let num4: Int = 3
+    print(num3 - num4)
+}
