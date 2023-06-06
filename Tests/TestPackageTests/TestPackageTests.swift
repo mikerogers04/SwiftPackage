@@ -7,5 +7,7 @@ final class TestPackageTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(TestPackage().text, "Hello, World!")
+        XCTAssertEqual(TestPackage().add, 4)
+//        XCTAssertEqual(math().add(), 4)
     }
 }
