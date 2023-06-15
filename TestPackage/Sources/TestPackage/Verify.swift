@@ -7,6 +7,8 @@
 
 import Foundation
 
+
+
 func sendSmsVerification(mobileNumber: String) {
     //Set url to API endpoint
     let url = sessionCreate

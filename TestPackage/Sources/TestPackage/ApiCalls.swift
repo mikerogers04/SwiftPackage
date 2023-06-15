@@ -7,9 +7,20 @@
 
 import Foundation
 
+
+
 //Base URL
 public let url = "https://blinkup-dev.herokuapp.com"
 
 let baseURL = URL(string: url + "/api")!
 
 let sessionCreate = baseURL.appendingPathComponent("/sessions/create")
+
+
+
+
+
+
+
+
+
