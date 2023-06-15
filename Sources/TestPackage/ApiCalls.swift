@@ -7,6 +7,8 @@
 
 import Foundation
 
+
+
 //Base URL
 public let url = "https://blinkup-dev.herokuapp.com"
 
